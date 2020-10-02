@@ -1,0 +1,13 @@
+#dice {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 20%;
+  width: 25px;
+  height: 25px;
+  align-items: center;
+  justify-content: center;
+  background-color: green;
+  color: gold;
+  margin: 2px;
+  padding: 5px;
+}
